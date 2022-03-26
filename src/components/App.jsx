@@ -8,7 +8,7 @@ export const App = () => {
         alignItems: 'center',
         fontSize: 40,
         textTransform: 'uppercase',
-        color: '#010101',
+        color: '#d3d3d3',
       }}
     >
       React homework template
